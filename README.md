@@ -6,9 +6,9 @@ There are two Jupyter Notebooks:
 
 Python Version 2.7
 
-In order to run the code the following library imports are required:
+In order to run the code the following external library imports are required:
 1. Brewery (https://pythonhosted.org/brewery/)
-2. US_States (converts state codes to numbers)
+2. US_States.py (converts state codes to numbers)
 
 The Lending Club data used for the visualisation and modelling has to been based on the following: 
 1. Loan1.zip
@@ -18,4 +18,4 @@ The Lending Club data used for the visualisation and modelling has to been based
 5. Loan5.zip
 6. Loan6.zip
 
-Combine the above files (it sould contain 887,379 rows and 74 fields).
+By combining the above files (it sould contain 887,379 rows and 74 fields).
